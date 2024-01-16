@@ -21,3 +21,7 @@ To run the app, navigate to the project directory in the command prompt, and use
 - How many concurrent users will need to access this app?
 - Will users need to access this from outside your local network?
 - Are there any more features which would be useful to you if more time were avaliable?
+
+## Notes
+- I unfortunately did not get time to add unit tests, but if I had, I would have tested:
+  - The functions in 'curb65/calculator.py` to ensure that edge cases were caught by the validation and calculation.
